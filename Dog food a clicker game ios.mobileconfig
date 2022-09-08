@@ -1481,17 +1481,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.795DD3C3-4AB2-4B20-B736-E53767199E10</string>
+			<string>com.apple.webClip.managed.F01569DE-9CCC-4F7A-B0B8-35D698BFC1EE</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>795DD3C3-4AB2-4B20-B736-E53767199E10</string>
+			<string>F01569DE-9CCC-4F7A-B0B8-35D698BFC1EE</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
-			<true/>
+			<false/>
 			<key>URL</key>
-			<string>https://droidsmisstep.github.io/Dog-Food/</string>
+			<string>https://droidsmisstep.github.io/Dog-Food/dog%20food%20a%20clicker%20game%20pro.html</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
@@ -1503,7 +1503,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>381BB13D-CD8A-4033-912D-11F6023FE090</string>
+	<string>2BBA2B52-7309-40ED-8D90-A3B316051501</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
